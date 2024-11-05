@@ -18,6 +18,13 @@ pip install neo-sdk
 
 ````
 
+or
+
+```bash
+pip install -e git+https://github.com/mobilex-neo/neo-sdk.git#egg=neo-sdk
+
+```
+
 # Getting Started
 To start using the NEO SDK, you'll need to import the necessary classes and initialize the NEO client:
 
