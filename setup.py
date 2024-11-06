@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Luiz Carvalho",
     author_email="dev@mtmtecnologia.com.br",
-    url="https://github.com/seuusuario/neo-sdk",
+    url="https://github.com/mobilex-neo/neo-sdk",
     packages=find_packages(),
     install_requires=[
         "requests>=2.26.0"
@@ -18,5 +18,5 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.6",
+    python_requires=">=3.11",
 )
